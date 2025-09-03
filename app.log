@@ -1,0 +1,92 @@
+Chirpy Logger2025/08/16 19:37:34 /home/shaheryar/Desktop/backend/Chirpy/main.go:68: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 12:06:37 /home/shaheryar/Desktop/backend/Chirpy/main.go:68: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 12:08:40 /home/shaheryar/Desktop/backend/Chirpy/main.go:68: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 12:16:38 /home/shaheryar/Desktop/backend/Chirpy/main.go:68: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 12:27:01 /home/shaheryar/Desktop/backend/Chirpy/main.go:76: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 12:27:32 /home/shaheryar/Desktop/backend/Chirpy/main.go:76: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 13:34:22 /home/shaheryar/Desktop/backend/Chirpy/main.go:112: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 13:36:46 /home/shaheryar/Desktop/backend/Chirpy/main.go:114: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 13:38:52 /home/shaheryar/Desktop/backend/Chirpy/main.go:115: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 13:39:09 /home/shaheryar/Desktop/backend/Chirpy/main.go:115: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 13:59:15 /home/shaheryar/Desktop/backend/Chirpy/main.go:122: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 15:01:44 /home/shaheryar/Desktop/backend/Chirpy/main.go:67: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 15:02:24 /home/shaheryar/Desktop/backend/Chirpy/main.go:67: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 15:02:56 /home/shaheryar/Desktop/backend/Chirpy/main.go:67: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 15:04:14 /home/shaheryar/Desktop/backend/Chirpy/main.go:63: Chirpy running on localhost:8080
+Chirpy Logger2025/08/17 15:07:30 /home/shaheryar/Desktop/backend/Chirpy/main.go:63: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:19:40 /home/shaheryar/Desktop/backend/Chirpy/main.go:77: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:29:34 /home/shaheryar/Desktop/backend/Chirpy/main.go:77: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:40:10 /home/shaheryar/Desktop/backend/Chirpy/main.go:77: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:41:15 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:27: Error Happened while trying to create user: User Input : {shaheryar.150ash@gmail.com} : Error : pq: SSL is not enabled on the server
+Chirpy Logger 2025/08/19 14:42:13 /home/shaheryar/Desktop/backend/Chirpy/main.go:77: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:42:17 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:27: Error Happened while trying to create user: User Input : {shaheryar.150ash@gmail.com} : Error : pq: SSL is not enabled on the server
+Chirpy Logger 2025/08/19 14:58:29 /home/shaheryar/Desktop/backend/Chirpy/main.go:78: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:58:51 /home/shaheryar/Desktop/backend/Chirpy/main.go:79: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 14:59:41 /home/shaheryar/Desktop/backend/Chirpy/main.go:80: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 15:02:20 /home/shaheryar/Desktop/backend/Chirpy/main.go:80: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/19 15:02:32 /home/shaheryar/Desktop/backend/Chirpy/main.go:79: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 12:42:58 /home/shaheryar/Desktop/backend/Chirpy/main.go:85: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 12:43:05 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:27: Error Happened while trying to create user: User Input : {shaheryar.150ash@gmail.com} : Error : pq: duplicate key value violates unique constraint "users_email_key"
+Chirpy Logger 2025/08/20 12:45:57 /home/shaheryar/Desktop/backend/Chirpy/main.go:85: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 12:46:01 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:31: Error Happened while trying to create user: User Input : {shaheryar.150ash@gmail.com} : Error : pq: duplicate key value violates unique constraint "users_email_key"
+Chirpy Logger 2025/08/20 12:46:03 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:31: Error Happened while trying to create user: User Input : {shaheryar.150ash@gmail.com} : Error : pq: duplicate key value violates unique constraint "users_email_key"
+Chirpy Logger 2025/08/20 12:46:37 /home/shaheryar/Desktop/backend/Chirpy/main.go:85: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 12:48:21 /home/shaheryar/Desktop/backend/Chirpy/main.go:85: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 12:50:00 /home/shaheryar/Desktop/backend/Chirpy/main.go:85: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 12:50:22 /home/shaheryar/Desktop/backend/Chirpy/main.go:85: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 14:39:44 /home/shaheryar/Desktop/backend/Chirpy/main.go:86: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 14:45:44 /home/shaheryar/Desktop/backend/Chirpy/main.go:86: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 14:46:16 /home/shaheryar/Desktop/backend/Chirpy/handlers/chirp.go:61: Error creating the chirp: pq: schema "uuid" does not exist
+Chirpy Logger 2025/08/20 14:48:42 /home/shaheryar/Desktop/backend/Chirpy/main.go:86: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 14:48:44 /home/shaheryar/Desktop/backend/Chirpy/handlers/chirp.go:61: Error creating the chirp: pq: schema "uuid" does not exist
+Chirpy Logger 2025/08/20 14:50:14 /home/shaheryar/Desktop/backend/Chirpy/main.go:86: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/20 15:19:54 /home/shaheryar/Desktop/backend/Chirpy/handlers/chirp.go:45: Error getting user from db: sql: no rows in result set
+Chirpy Logger 2025/08/20 15:23:43 /home/shaheryar/Desktop/backend/Chirpy/main.go:86: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/21 12:05:51 /home/shaheryar/Desktop/backend/Chirpy/main.go:86: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/21 12:06:39 /home/shaheryar/Desktop/backend/Chirpy/handlers/chirp.go:50: Error getting user from db: dial tcp [::1]:5432: connect: connection refused
+Chirpy Logger 2025/08/21 12:06:54 /home/shaheryar/Desktop/backend/Chirpy/handlers/chirp.go:50: Error getting user from db: dial tcp [::1]:5432: connect: connection refused
+Chirpy Logger 2025/08/21 13:10:03 /home/shaheryar/Desktop/backend/Chirpy/main.go:87: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/21 13:11:13 /home/shaheryar/Desktop/backend/Chirpy/main.go:87: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/21 13:28:09 /home/shaheryar/Desktop/backend/Chirpy/main.go:88: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/29 12:52:16 /home/shaheryar/Desktop/backend/Chirpy/main.go:88: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/29 12:54:25 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:49: Error Happened while trying to create user: User Input : {shaheryar.150ash@gmail.com reasdjSDF1234} : Error : dial tcp [::1]:5432: connect: connection refused
+Chirpy Logger 2025/08/29 12:57:32 /home/shaheryar/Desktop/backend/Chirpy/main.go:88: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/29 13:18:17 /home/shaheryar/Desktop/backend/Chirpy/main.go:88: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/30 14:50:14 /home/shaheryar/Desktop/backend/Chirpy/main.go:88: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/31 12:59:39 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/31 13:00:56 /home/shaheryar/Desktop/backend/Chirpy/handlers/users.go:95: Error Trying to get user by Email: dial tcp [::1]:5432: connect: connection refused
+Chirpy Logger 2025/08/31 13:03:19 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/31 13:15:44 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/31 13:18:42 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/31 13:18:58 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/08/31 15:31:11 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/01 13:10:59 /home/shaheryar/Desktop/backend/Chirpy/main.go:91: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/01 14:03:06 /home/shaheryar/Desktop/backend/Chirpy/main.go:92: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/01 15:28:39 /home/shaheryar/Desktop/backend/Chirpy/main.go:93: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/02 13:24:56 /home/shaheryar/Desktop/backend/Chirpy/main.go:94: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:14:50 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:16:00 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:16:47 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:17:57 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:18:50 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:19:19 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:19:40 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:33:09 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:33:31 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 12:34:12 /home/shaheryar/Desktop/backend/Chirpy/main.go:95: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:14:04 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:16:04 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:16:21 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:18:20 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:18:42 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:19:56 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:23:30 /home/shaheryar/Desktop/backend/Chirpy/main.go:97: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:47:58 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:49:30 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:49:49 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:51:17 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 13:51:29 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 14:07:32 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 14:07:49 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 14:09:23 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
+Chirpy Logger 2025/09/03 14:32:46 /home/shaheryar/Desktop/backend/Chirpy/main.go:99: Chirpy running on localhost:8080
